@@ -1,0 +1,70 @@
+{
+  "known_topics": [
+    "aliens",
+    "AI",
+    "bananas"
+  ],
+  "user_facts": [
+    "prefers RPGs",
+    "calls NOVA by name"
+  ],
+  "user_inputs": [
+    "Nova can you understand me",
+    "how are you doing",
+    "what is your name",
+    "your name is Nova",
+    "so if I ask",
+    "can you tell me about yourself",
+    "no no no no no no no no no no no no",
+    "did you hear me why is it why is it doing that",
+    "hello",
+    "Daddy",
+    "is that better",
+    "can you hear me now",
+    "hear me now yes I can",
+    "and you",
+    "Innova",
+    "teach Nova how are you",
+    "how are you Nova",
+    "tell me a weird fact Nova",
+    "can you",
+    "how are you I'm doing well thank you",
+    "I'm doing",
+    "and how do you learn",
+    "Noah",
+    "how are you doing today",
+    "Nova remember how are you doing",
+    "are you ready to learn Nova",
+    "did you understand that",
+    "how can",
+    "can can you tell me your name",
+    "how are you"
+  ],
+  "nova_responses": [
+    "You said: 'how are you doing'. I'm still learning how to respond to that.",
+    "You said: 'what is your name'. I'm still learning how to respond to that.",
+    "You said: 'so if I ask'. I'm still learning how to respond to that.",
+    "You said: 'can you tell me about yourself'. I'm still learning how to respond to that."
+  ],
+  "last_topics": [],
+  "custom_responses": {},
+  "unknown_inputs": [
+    "no no no no no no no no no no no no",
+    "did you hear me why is it why is it doing that",
+    "Daddy",
+    "is that better",
+    "can you hear me now",
+    "hear me now yes I can",
+    "and you",
+    "can you",
+    "how are you I'm doing well thank you",
+    "I'm doing",
+    "and how do you learn",
+    "Noah",
+    "how are you doing today",
+    "did you understand that",
+    "how can",
+    "can can you tell me your name",
+    "how are you"
+  ]
+}

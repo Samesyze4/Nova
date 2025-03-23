@@ -1,0 +1,8 @@
+pyaudio
+sounddevice
+simpleaudio
+pydub
+scipy
+speechrecognition
+google-cloud-texttospeech
+Pillow
